@@ -3,6 +3,10 @@
 # * list can be heterogenius but  traditional arrays are homogenious only(i.e. that can store only similar type of value)
 
 
+# ! mutable:which can change in same memory address , immutable :which cannot change in same memory address.
+# !mutable type: list,sets,dictionary
+# !immutable:int,float,boolean,string,tuple,complex
+
 # !1.creating list:
 l=[10,2,"hello",True,3.2,"hii"]
 print(l)

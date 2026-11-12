@@ -4,6 +4,11 @@
 # !3.sets do not allow mutable datatypes.
 # !4.set itself is a mutable datatype. so there is not possible to create a multidimentional sets.
 
+
+# ! mutable:which can change in same memory address , immutable :which cannot change in same memory address.
+# !mutable type: list,sets,dictionary
+# !immutable:int,float,boolean,string,tuple,complex
+
 # !1.creating set:
 s1 = {} # it will create a  dictionary not a empty set. a both dictionary and set use {} but default choice is dictionary by python.
 print(type(s1))

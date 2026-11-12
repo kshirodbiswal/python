@@ -1,5 +1,11 @@
 # ! touple are immutable in nature
 # ! tuples are read only data type
+
+
+# ! mutable:which can change in same memory address , immutable :which cannot change in same memory address.
+# !mutable type: list,sets,dictionary
+# !immutable:int,float,boolean,string,tuple,complex
+
 # !1.creating a tuple
 t1=() #empty tuple
 print(t1)

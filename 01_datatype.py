@@ -25,3 +25,7 @@ print((4,5,5,7,8))
 print({1,2,3,6})
 # dictionary
 print({'name':"nitish",'age':30,'gender':'male'})
+
+# ! mutable:which can change in same memory address , immutable :which cannot change in same memory address.
+# !mutable type: list,sets,dictionary
+# !immutable:int,float,boolean,string,tuple,complex
